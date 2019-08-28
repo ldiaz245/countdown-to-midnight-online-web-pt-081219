@@ -1,5 +1,5 @@
-x = 1
+x = 10
 while x < 10
-puts "#{x} is less than 10"
-x  += 1
+puts "#{number} 10 seconds
+x  -= 10
 end
