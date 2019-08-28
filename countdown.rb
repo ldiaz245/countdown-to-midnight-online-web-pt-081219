@@ -1,4 +1,4 @@
-#write your code here
+#{number} 10 Seconds
 
 def countdown
 end
